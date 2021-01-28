@@ -1,0 +1,6 @@
+name: ItemRemover
+version: 1.0
+main: de.kevin.Main
+commands:
+  clear:
+    description: Entfernt alle Items
